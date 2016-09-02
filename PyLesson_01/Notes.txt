@@ -1,0 +1,22 @@
+
+    Lesson 1 Notes
+
+Programming language is made up of a set of words, symbols, and expressions as well as a set of rules that defines how we use these expressions to communicate.
+
+Python is a programming language created by Guido van Rossum in the Netherlands in the late 1980s in the Netherlands.
+
+Every programming language has it’s own mechanism for translating the assembly code or source code that is written by a machine code that the machine’s processor can execute.
+
+Languages like compiled languages languages use a compiler that translates all of the source code into machine code before it can be run. These languages can run faster for certain tasks. 
+
+Interpreted languages use an interpreter to translate source code into machine code as it is being run. Interpreted languages tend to be more simple and efficient to develop with. 
+
+Python compiles your source code into bytecode, which is an intermediate between your source code and your computer’s processor. 
+
+The backslash character is used to escape characters that otherwise have a special meaning, such as newline, backslash itself, or the quote character.
+
+such strings are called raw strings and use different rules for backslash escape sequences.
+
+ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters.
+
+
